@@ -5,6 +5,8 @@ public class Gitjava {
 		System.out.println("Check Git is working");
 		
 		System.out.println("Cloning to subha");
+		
+		System.out.println("Updating the codes");
 	}
 
 }
