@@ -6,7 +6,14 @@ public class Gitjava {
 		
 		System.out.println("Cloning to subha");
 		
+
+		System.out.println("Subhasree");
+
 		System.out.println("Updating the codes");
+		
+		System.out.println("Cloning to the git hub ");
+		
+
 	}
 
 }
